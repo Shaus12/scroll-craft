@@ -1,0 +1,12 @@
+{
+  "name": "futureproof-design",
+  "description": "Design and build skills maintained by Shai Shotashvili (FutureProof AI). Ships scroll-craft: premium scroll-driven interactive landing pages, built on a full design floor (typography, spacing, colour, depth, motion, accessibility) rather than on an animation library. Based on scroll-craft by Nate Herk (MIT).",
+  "version": "0.3.0",
+  "author": {
+    "name": "Shai Shotashvili",
+    "url": "https://github.com/Shaus12"
+  },
+  "homepage": "https://github.com/Shaus12/scroll-craft",
+  "repository": "https://github.com/Shaus12/scroll-craft",
+  "license": "MIT"
+}
