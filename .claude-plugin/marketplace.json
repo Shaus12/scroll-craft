@@ -1,0 +1,21 @@
+{
+  "name": "futureproof",
+  "description": "Design and build skills curated by Shai Shotashvili (FutureProof AI). Ships scroll-craft, originally created by Nate Herk.",
+  "owner": {
+    "name": "Shai Shotashvili (FutureProof AI)",
+    "url": "https://github.com/Shaus12"
+  },
+  "plugins": [
+    {
+      "name": "futureproof-design",
+      "source": "./plugins/futureproof-design",
+      "description": "scroll-craft: build a premium, scroll-driven interactive landing page. Scroll becomes the timeline, and the page verifies its own contrast, motion and accessibility by screenshotting itself. Maintained by Shai Shotashvili, based on scroll-craft by Nate Herk (MIT).",
+      "version": "0.3.0",
+      "author": {
+        "name": "Shai Shotashvili",
+        "url": "https://github.com/Shaus12"
+      },
+      "license": "MIT"
+    }
+  ]
+}
